@@ -1,4 +1,7 @@
 # ♨️ Learning with Java
+### 🔰Overview
+
+
 Welcome to the **Learning with Java** repository! 🎉
 
 This project is being documented to aid in my journey with the Java programming language and to track my progress throughout my studies. I hope the resources and notes here prove helpful to you as well. 😊
@@ -7,7 +10,6 @@ Feel free to explore the code, contribute, or use it as a reference for your own
 
 Happy coding! 🚀
 
-### 🔰Overview
 
 | Classes                                  | Projects                            |Description                          |
 | :----------------------------------------| :---------------------------------- | :---------------------------------- |
